@@ -14,6 +14,7 @@ This done in some phone like newer Rog phones , to save battery life so that bat
  - .215 A11 firmware (Currently working on *A11 only)
  - 18w charger connected 
  - CPU Throttling Test app
+ - X Mode enabled *why not?
 <table>
   <tr>
     <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/2.jpg"</td>
