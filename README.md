@@ -10,7 +10,7 @@ This done in some phone like newer Rog phones , to save battery life so that bat
 
 # My tests:
 20 Threads 15 Minutes test
-
+<img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/2.jpg" width="425"/> <img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/3.jpg" width="425"/> <img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/4.jpg" width="425"/> 
 
 
 
