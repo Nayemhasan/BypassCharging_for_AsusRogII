@@ -56,7 +56,7 @@ So how do I added apps to game genie? easy!🍉
     <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/7.step2.jpg" width=270 height=585></td>
     <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/8.step3.jpg" width=270 height=585></td>
   </tr>
-
+<br>
   # Thank You🍉
 > **Note:** if you have any question or suggestion mail me @**nayemhassan421123@gmail.com** 
 
