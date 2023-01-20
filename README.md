@@ -21,9 +21,9 @@ This done in some phone like newer Rog phones , to save battery life so that bat
      <td>Done</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/2.jpg" width=270 height=585></td>
-    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/3.jpg" width=270 height=585></td>
-    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/4.jpg" width=270 height=585></td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/2.jpg"</td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/3.jpg"</td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/4.jpg"</td>
   </tr>
  </table>
  
@@ -34,8 +34,8 @@ This done in some phone like newer Rog phones , to save battery life so that bat
      <td>After Test</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/1.batterylog1.jpg" width=270 height=585></td>
-    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/5.batterylog2.jpg" width=270 height=585></td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/1.batterylog1.jpg"</td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/5.batterylog2.jpg"</td>
   </tr>
  </table>
  So what I found was during the test battery didnt drained or heated up quickly. It took time finishing the test and uses only 1% of battery. I think that's usal for idle usage. In this case it was during a heavy cpu test, So guess what's working🍉😁
@@ -44,7 +44,7 @@ This done in some phone like newer Rog phones , to save battery life so that bat
  - install the latest released .apk
 
 Good things sometime breaks thing up. Here you can see I cant use Game Genie via Armoury Crate app 
-<img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/6.step1.jpg" width=270 height=585></td>
+<img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/6.step1.jpg"</td>
 
 <br>
 So how do I added apps to game genie? easy!🍉
@@ -53,8 +53,8 @@ So how do I added apps to game genie? easy!🍉
 `Goto> Settings> Advanced> Game Genie> Game toolbar> now add your games/apps`
  <table>
   <tr>
-    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/7.step2.jpg" width=270 height=585></td>
-    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/8.step3.jpg" width=270 height=585></td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/7.step2.jpg"</td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/8.step3.jpg"</td>
   </tr>
  </table>
 
