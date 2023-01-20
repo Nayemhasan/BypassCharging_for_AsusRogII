@@ -16,11 +16,6 @@ This done in some phone like newer Rog phones , to save battery life so that bat
  - CPU Throttling Test app
 <table>
   <tr>
-    <td>Starting_BypassCharging</td>
-     <td>20Threads_15Minutes</td>
-     <td>Done</td>
-  </tr>
-  <tr>
     <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/2.jpg"</td>
     <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/3.jpg"</td>
     <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/4.jpg"</td>
@@ -29,10 +24,6 @@ This done in some phone like newer Rog phones , to save battery life so that bat
  
  ## Results
  <table>
-  <tr>
-    <td>Starting Test</td>
-     <td>After Test</td>
-  </tr>
   <tr>
     <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/1.batterylog1.jpg"</td>
     <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/5.batterylog2.jpg"</td>
