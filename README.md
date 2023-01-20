@@ -29,19 +29,13 @@ This done in some phone like newer Rog phones , to save battery life so that bat
  # Results
  <table>
   <tr>
-    <td>Starting bypass charging</td>
-     <td>20 Threads 15 Minutes test</td>
-     <td>Done</td>
+    <td>Starting Test</td>
+     <td>After Test</td>
   </tr>
   <tr>
     <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/1.batterylog1.jpg" width=270 height=480></td>
     <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/5.batterylog2.jpg" width=270 height=480></td>
   </tr>
  </table>
+ So what I found was during the test battery didnt drained or heated up quickly. It took time to finishing the test and uses only 1% of battery. I think that usal for idle usage. In this case it was during a heavy cpu test, So guess what's working🍉😁
 
-
-
-
-So what to do?
-Install the apk 
- 
