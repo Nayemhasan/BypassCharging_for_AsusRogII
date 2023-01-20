@@ -20,9 +20,9 @@ This done in some phone like newer Rog phones , to save battery life so that bat
      <td>Done</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/2.jpg" width=270 height=480></td>
-    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/3.jpg" width=270 height=480></td>
-    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/4.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/2.jpg" width=270 height=585></td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/3.jpg" width=270 height=585></td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/4.jpg" width=270 height=585></td>
   </tr>
  </table>
  
@@ -33,8 +33,8 @@ This done in some phone like newer Rog phones , to save battery life so that bat
      <td>After Test</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/1.batterylog1.jpg" width=270 height=480></td>
-    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/5.batterylog2.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/1.batterylog1.jpg" width=270 height=585></td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/5.batterylog2.jpg" width=270 height=585></td>
   </tr>
  </table>
  So what I found was during the test battery didnt drained or heated up quickly. It took time finishing the test and uses only 1% of battery. I think that's usal for idle usage. In this case it was during a heavy cpu test, So guess what's working🍉😁
