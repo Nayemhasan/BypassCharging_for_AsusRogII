@@ -11,7 +11,7 @@ This done in some phone like newer Rog phones , to save battery life so that bat
 # My tests
    Testbench:
  - Asus Rog 2 (8+128 tencent edition)
- - 18w charger 
+ - 18w charger connected 
  - CPU Throttling Test app
 <table>
   <tr>
@@ -38,4 +38,6 @@ This done in some phone like newer Rog phones , to save battery life so that bat
   </tr>
  </table>
  So what I found was during the test battery didnt drained or heated up quickly. It took time finishing the test and uses only 1% of battery. I think that's usal for idle usage. In this case it was during a heavy cpu test, So guess what's working🍉😁
+
+## How to use?
 
