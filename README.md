@@ -11,7 +11,7 @@ This done in some phone like newer Rog phones , to save battery life so that bat
 ## My tests
    Testbench:
  - Asus Rog 2 (8+128 tencent edition)
- - .215 A11 firmware (Should work on A9-A11)
+ - .215 A11 firmware (Currently working on *A11 only)
  - 18w charger connected 
  - CPU Throttling Test app
 <table>
