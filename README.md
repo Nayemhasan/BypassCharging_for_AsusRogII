@@ -45,8 +45,6 @@ Good things sometime breaks thing up. Here you can see I cant use Game Genie via
 <img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/6.step1.jpg" width=270 height=585></td>
 So how do I added apps to game genie?
 - easy!🍉
-
-    <?php
-        echo "Goto>Settings>Advanced>Game Genie>Game toolbar>now add your games/apps";
-    ?>
+'Goto>Settings>Advanced>Game Genie>Game toolbar>now add your games/apps'
+   
 
