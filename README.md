@@ -8,7 +8,7 @@ I personally like this series too. But the sad thing is older generation are not
 Bypass Charging means the device is getting powered directly from the adapter without touching the battery.
 This done in some phone like newer Rog phones , to save battery life so that battery is not used while charging , because using phone while charging or fast charging may hamper the battery. Here battery is not charged, the battery level will be constant, only the phone is powered externally.
 
-# My tests:
+# My tests
    Testbench:
  - Asus Rog 2 (8+128 tencent edition)
  - 18w charger 
@@ -25,6 +25,20 @@ This done in some phone like newer Rog phones , to save battery life so that bat
     <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/4.jpg" width=270 height=480></td>
   </tr>
  </table>
+ 
+ # Results
+ <table>
+  <tr>
+    <td>Starting bypass charging</td>
+     <td>20 Threads 15 Minutes test</td>
+     <td>Done</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/1.batterylog1.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/5.batterylog2.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
 
 
 
