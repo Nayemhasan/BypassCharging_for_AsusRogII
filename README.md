@@ -48,5 +48,14 @@ So how do I added apps to game genie?
 - easy!🍉
 
 `Goto> Settings> Advanced> Game Genie> Game toolbar> now add your games/apps`
+ <table>
+  <tr>
+    <td>Starting Test</td>
+     <td>After Test</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/7.step2.jpg" width=270 height=585></td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/8.step3.jpg" width=270 height=585></td>
+  </tr>
 
 
