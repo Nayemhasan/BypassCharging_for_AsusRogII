@@ -10,10 +10,18 @@ This done in some phone like newer Rog phones , to save battery life so that bat
 
 # My tests:
 20 Threads 15 Minutes test
-<img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/2.jpg" width="425"/> <img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/3.jpg" width="425"/> <img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/4.jpg" width="425"/> 
-
-
-
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/2.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/3.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/4.jpg" width=270 height=480></td>
+  </tr>
+ </table>
 
 
 
