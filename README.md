@@ -16,8 +16,8 @@ This done in some phone like newer Rog phones , to save battery life so that bat
  - CPU Throttling Test app
 <table>
   <tr>
-    <td>Starting bypass charging</td>
-     <td>20 Threads 15 Minutes test</td>
+    <td>Starting_BypassCharging</td>
+     <td>20Threads_15Minutes</td>
      <td>Done</td>
   </tr>
   <tr>
