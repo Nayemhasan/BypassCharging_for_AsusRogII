@@ -9,7 +9,7 @@ Bypass Charging means the device is getting powered directly from the adapter wi
 This done in some phone like newer Rog phones , to save battery life so that battery is not used while charging , because using phone while charging or fast charging may hamper the battery. Here battery is not charged, the battery level will be constant, only the phone is powered externally.
 
 # My tests:
- # testbench:
+   Testbench:
  - Asus Rog 2 (8+128 tencent edition)
  - 18w charger 
  - CPU Throttling Test app
