@@ -43,6 +43,7 @@ This done in some phone like newer Rog phones , to save battery life so that bat
 
 Good things sometime breaks thing up. Here you can see I cant use Game Genie via Armoury Crate app 
 <img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/6.step1.jpg" width=270 height=585></td>
+<br>
 So how do I added apps to game genie?
 - easy!🍉
 
