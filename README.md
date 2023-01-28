@@ -33,9 +33,10 @@ This done in some phone like newer Rog phones , to save battery life so that bat
  So what I found was during the 15 min CPU Throttling test battery didnt drained or heated up quickly. It took time finishing the test and uses only 1% of battery. I think that's usal for idle usage. In this case it was during a heavy cpu test, So guess what's working🍉😁
 
 ## How to use?
- - install the latest released .apk
+ - install the module via magisk.
+ - if you are not rooted then install the latest released .apk
 
-Good things sometime break things up. Here as you can see I cant use Game Genie via Armoury Crate app 
+Good things sometime break things up. Here as you can see I cant use Game Genie via Armoury Crate app in WW stock rom
 <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/6.step1.jpg"</td>
 
 <br>

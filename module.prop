@@ -1,6 +1,6 @@
-id=dualband_wifi_enabler_rog2
-name=DualBand Wifi enabler for Asus Rog 2 Tencent/Strix
+id=BypassCharging_for_AsusRogII
+name=BypassCharging_for_AsusRogII
 version=v01
 versionCode=1
 author=🍉
-description=Force enable dualband wifi in Asus Rog 2 Tencent/Strix
+description=Enables bypass charging for Rog 2 like newer Rog 3/5/6
