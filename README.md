@@ -1,5 +1,5 @@
 ## BypassCharging_for_AsusRogII
-A module that can do bypass charging for Rog 2 like newer Rog 3/5/6 by installing a modded version of game geine.<br>
+A module that can enable bypass charging for Rog 2 like newer Rog 3/5/6 by installing a modded version of game geine.<br>
 Asus Rog series has been beloved by gamers and mobile enthusiasts for it unmatched spces and hw performance.<br>
 I personally like this series too. But the sad thing is older generation are not getting improved features like new Armoury Crate, Features Updates and most important OS updates. But there are workarounds with some hardworking devs to fix thing up.
 
