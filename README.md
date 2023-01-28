@@ -1,5 +1,5 @@
 ## BypassCharging_for_AsusRogII
-A module that can enable bypass charging for Rog 2 like newer Rog 3/5/6 by installing a modded version of game geine.<br>
+A modded version of game geine app that can enable bypass charging for Rog 2 like newer Rog 3/5/6.<br>
 Asus Rog series has been beloved by gamers and mobile enthusiasts for it unmatched spces and hw performance.<br>
 I personally like this series too. But the sad thing is older generation are not getting improved features like new Armoury Crate, Features Updates and most important OS updates. But there are workarounds with some hardworking devs to fix thing up.
 
@@ -33,8 +33,7 @@ This done in some phone like newer Rog phones , to save battery life so that bat
  So what I found was during the 15 min CPU Throttling test battery didnt drained or heated up quickly. It took time finishing the test and uses only 1% of battery. I think that's usal for idle usage. In this case it was during a heavy cpu test, So guess what's working🍉😁
 
 ## How to use?
- - install the module via magisk.
- - if you are not rooted then install the latest released .apk
+ - install the latest released .apk
 
 Good things sometime break things up. Here as you can see I cant use Game Genie via Armoury Crate app in WW stock rom
 <td><img src="https://github.com/Nayemhasan/BypassCharging_for_AsusRogII/blob/main/pics/6.step1.jpg"</td>
